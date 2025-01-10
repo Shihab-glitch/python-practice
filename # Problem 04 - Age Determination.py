@@ -16,9 +16,10 @@ elif(P02>P01 and P02>P03):
         print("The First Person is the youngest")
     else:
         print("The Third Person is the youngest")
-else:
+elif
     print("The Third Person is the oldest")
     if (P01<P02):
         print("The First Person is the youngest")
     else:
         print("The Second Person is the youngest")
+else : print("There is something wrong with your input")
