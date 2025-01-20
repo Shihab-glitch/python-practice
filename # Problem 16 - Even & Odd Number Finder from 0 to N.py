@@ -1,4 +1,4 @@
-## Odd-Even Count
+# Odd-Even Count
 
 n = int(input("Enter N : "))
 count_odd = 0
