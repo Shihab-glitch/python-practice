@@ -1,4 +1,4 @@
-# Problem 4.01 - Finding largest and smallest number of three numbers using nested if_else
+# Problem 04.01 - Finding largest and smallest number of three numbers using nested if_else
 
 num01 = float(input("Enter your first number: "))
 num02 = float(input("Enter your second number: "))
