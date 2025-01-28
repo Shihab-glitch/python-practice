@@ -1,4 +1,4 @@
-# Problem - 18.01 - Remove duplicates from a list
+# Problem 18.01 - Remove duplicates from a list
 
 # String Input
 list = input("Enter the elements: ").split()
