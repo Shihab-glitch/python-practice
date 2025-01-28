@@ -1,4 +1,4 @@
-# Till you turn 100
+# Problem 00 - Till you turn 100
 
 name = input("Enter your name: ")
 age = int(input("Enter your age in years: "))
