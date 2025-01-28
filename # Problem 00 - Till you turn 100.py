@@ -1,3 +1,5 @@
+# Till you turn 100
+
 name = input("Enter your name: ")
 age = int(input("Enter your age in years: "))
 calc = 100 - age
