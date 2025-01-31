@@ -1,4 +1,4 @@
-# Calculate the sum of all odd numbers between 1 and N
+# Problem 11.01 - Calculate the sum of all odd numbers between 1 and N
 
 sum_odd = 0
 n = int(input("Enter the value of N : "))
