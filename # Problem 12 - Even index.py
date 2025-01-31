@@ -1,4 +1,4 @@
-# Display characters present at an even index number
+# Problem 12 - Display characters present at an even index number
 
 x = str(input("Enter the word - "))
 even_index = []
