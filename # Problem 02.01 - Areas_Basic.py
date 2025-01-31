@@ -1,4 +1,4 @@
-# Areas_Basic
+# Problem 02.01 - Areas_Basic
 
 # Area of a Circle
 radius = float(input("Enter the radius of the circle: "))
