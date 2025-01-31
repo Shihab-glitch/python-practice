@@ -1,4 +1,4 @@
-# Prime Number Finder
+# Problem 17 - Prime Number Finder
 
 from math import sqrt
 n = int(input("Enter number to check: "))
