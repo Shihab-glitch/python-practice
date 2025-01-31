@@ -1,4 +1,4 @@
-# Calculate the sum of all even numbers between 1 and N
+# Problem 11 - Calculate the sum of all even numbers between 1 and N
 
 sum_even = 0
 d = 2
