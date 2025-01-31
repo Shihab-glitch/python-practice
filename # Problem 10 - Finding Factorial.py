@@ -1,4 +1,4 @@
-# Calculate the factorial of a given number N
+# Problem 10 - Calculate the factorial of a given number N
 
 fact = 1
 i = 1
