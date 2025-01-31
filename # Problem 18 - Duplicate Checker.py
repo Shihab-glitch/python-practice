@@ -1,4 +1,4 @@
-# Duplicate Checker
+# Problem 18 - Duplicate Checker
 
 a = [int(x) for x in input("Enter the elements : ").split()]
 print("Input list:", a)
