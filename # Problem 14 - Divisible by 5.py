@@ -1,4 +1,4 @@
-# Display numbers from a list divisible by 5
+# Problem 14 - Display numbers from a list divisible by 5
 
 a = [int(x) for x in input("Enter the elements : ").split()]
 print("Input list:", a)
