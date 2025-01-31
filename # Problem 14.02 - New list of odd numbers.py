@@ -1,4 +1,4 @@
-# Display odd numbers from a list
+# Problem 14.02 - Display odd numbers from a list
 
 a = [int(x) for x in input("Enter the elements : ").split()]
 print("Input list:", a)
