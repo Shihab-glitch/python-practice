@@ -1,4 +1,4 @@
-# Odd-Even Count
+# Problem 16 - Odd-Even Count
 
 n = int(input("Enter N : "))
 count_odd = 0
