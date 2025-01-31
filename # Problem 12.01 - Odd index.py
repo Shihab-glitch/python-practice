@@ -1,4 +1,4 @@
-# Display characters present at an odd index number
+# Problem 12.01 - Display characters present at an odd index number
 
 x = str(input("Enter the word - "))
 odd_index = []
