@@ -1,4 +1,4 @@
-# Full House 2
+# Problem 15 - Full House 2
 
 A, B, C, D = [int(x) for x in input("Cards: ").split()]
 a = A, B, C, D
